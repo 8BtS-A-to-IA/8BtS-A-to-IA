@@ -1,5 +1,6 @@
 # Active, maintained or intermediate active projects
-This personal folder is for my projects which are in the 'active', 'maintained' or 'intermediate active' states.
+This personal folder is for my projects which are in the 'active', 'maintained' or 'intermediate active' states.<br>
+Go [here](https://github.com/8BtS-A-to-IA) for project list.
 - Definitions:
   - Active: Work on the project is healthy and alive. Expect constant maintenance.
   
